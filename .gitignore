@@ -8,6 +8,7 @@ thirdparty/
 
 .idea/
 
+/target
 Cargo.lock
 
 /assets/auto_generated/**
